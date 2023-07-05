@@ -1,4 +1,3 @@
-'''other group member: Vanshika Pal (2022560)
 APIs used:
 the code checks if any holiday was celebrated in a country on the specific date provided by the user.
 (by default location is set to the country the user is running the program from.)'''
